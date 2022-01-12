@@ -1378,3 +1378,40 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.12-18.24.36:245][858]AssetCheck: New page: Asset Save: multiple assets
 [2022.01.12-18.24.36:245][858]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/TheForest.TheForest
 [2022.01.12-18.24.36:245][858]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/TheForest_BuiltData.TheForest_BuiltData
+[2022.01.12-18.31.03:100][490]LogActorFactory: Actor Factory created Plane
+[2022.01.12-18.31.03:723][527]LogActorFactory: Actor Factory created Plane
+[2022.01.12-18.31.29:208][514]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\mehme\Desktop\kml\GAME 211\Final\Assignment 6\The Forest.jpg)
+[2022.01.12-18.31.29:227][514]LogTexture: Display: Building textures: The_Forest (BGRA8, 1280X889)
+[2022.01.12-18.31.33:156][611]LogMaterial: Display: Missing cached shader map for material The_Forest_Mat, compiling. 
+[2022.01.12-18.31.33:186][611]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2022.01.12-18.31.33:186][611]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2022.01.12-18.31.33:186][611]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.01.12-18.31.33:186][611]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.01.12-18.31.33:186][611]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2022.01.12-18.31.33:186][611]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2022.01.12-18.31.33:189][611]LogMaterial: Display: Material /Game/ThirdPersonBP/Maps/The_Forest_Mat.The_Forest_Mat needed to have new flag set bUsedWithStaticLighting !
+[2022.01.12-18.31.33:190][611]LogMaterial: Display: Missing cached shader map for material The_Forest_Mat, compiling. 
+[2022.01.12-18.31.33:221][611]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 21
+[2022.01.12-18.31.33:221][611]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 19
+[2022.01.12-18.31.33:221][611]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 17
+[2022.01.12-18.31.33:221][611]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2022.01.12-18.31.33:221][611]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 13
+[2022.01.12-18.31.33:221][611]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2022.01.12-18.31.34:466][645]Cmd: TRANSACTION UNDO
+[2022.01.12-18.31.34:466][645]LogEditorTransaction: Undo Create Actors
+[2022.01.12-18.31.34:672][648]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2022.01.12-18.31.35:404][671]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.01.12-18.31.35:447][673]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2022.01.12-18.31.35:447][673]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2022.01.12-18.31.35:515][676]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 5
+[2022.01.12-18.31.35:939][690]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.01.12-18.31.35:939][690]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.01.12-18.31.36:027][693]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2022.01.12-18.31.36:126][696]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2022.01.12-18.31.47:774][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.01.12-18.32.05:074][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.01.12-18.32.05:088][395]LogSavePackage: Moving '../../../../../../Users/mehme/Documents/GitHub/Game211/Game211/Saved/TheForest38D783E543055957B0A9BCB138DF2EFC.tmp' to '../../../../../../Users/mehme/Documents/GitHub/Game211/Game211/Content/ThirdPersonBP/Maps/TheForest.umap'
+[2022.01.12-18.32.05:115][395]LogSavePackage: Moving '../../../../../../Users/mehme/Documents/GitHub/Game211/Game211/Saved/TheForest_BuiltDataE0093C3342ACDEE55E25FFA2409695BA.tmp' to '../../../../../../Users/mehme/Documents/GitHub/Game211/Game211/Content/ThirdPersonBP/Maps/TheForest_BuiltData.uasset'
+[2022.01.12-18.32.05:129][395]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.12-18.32.05:129][395]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/TheForest.TheForest
+[2022.01.12-18.32.05:129][395]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/TheForest_BuiltData.TheForest_BuiltData
