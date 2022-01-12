@@ -1415,3 +1415,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.12-18.32.05:129][395]AssetCheck: New page: Asset Save: multiple assets
 [2022.01.12-18.32.05:129][395]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/TheForest.TheForest
 [2022.01.12-18.32.05:129][395]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/TheForest_BuiltData.TheForest_BuiltData
+[2022.01.12-18.42.05:215][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.01.12-18.42.05:216][211]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/TheForest' took 0.004
+[2022.01.12-18.42.05:217][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Maps/The_Forest] ([1] browsable assets)...
+[2022.01.12-18.42.05:223][211]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Maps/The_Forest.The_Forest]
+[2022.01.12-18.42.05:223][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Maps/The_Forest]
+[2022.01.12-18.42.05:230][211]LogSavePackage: Moving '../../../../../../Users/mehme/Documents/GitHub/Game211/Game211/Saved/The_Forest_Auto1700FEDC64FB9EE0CDB221D9A571AFA5D.tmp' to '../../../../../../Users/mehme/Documents/GitHub/Game211/Game211/Saved/Autosaves/Game/ThirdPersonBP/Maps/The_Forest_Auto1.uasset'
+[2022.01.12-18.42.05:230][211]LogFileHelpers: Auto-saving content packages took 0.014
